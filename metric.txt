@@ -1,0 +1,2 @@
+Average length of a word: 5.33
+Average no. of words per sentence: 3.0
